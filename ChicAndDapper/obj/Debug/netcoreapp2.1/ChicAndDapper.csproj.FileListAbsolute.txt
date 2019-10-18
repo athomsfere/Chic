@@ -1,0 +1,9 @@
+C:\Users\Athom\Documents\Visual Studio 2017\Projects\ChicAndDapper\ChicAndDapper\bin\Debug\netcoreapp2.1\ChicAndDapper.deps.json
+C:\Users\Athom\Documents\Visual Studio 2017\Projects\ChicAndDapper\ChicAndDapper\bin\Debug\netcoreapp2.1\ChicAndDapper.dll
+C:\Users\Athom\Documents\Visual Studio 2017\Projects\ChicAndDapper\ChicAndDapper\bin\Debug\netcoreapp2.1\ChicAndDapper.pdb
+C:\Users\Athom\Documents\Visual Studio 2017\Projects\ChicAndDapper\ChicAndDapper\obj\Debug\netcoreapp2.1\ChicAndDapper.csprojAssemblyReference.cache
+C:\Users\Athom\Documents\Visual Studio 2017\Projects\ChicAndDapper\ChicAndDapper\obj\Debug\netcoreapp2.1\ChicAndDapper.csproj.CoreCompileInputs.cache
+C:\Users\Athom\Documents\Visual Studio 2017\Projects\ChicAndDapper\ChicAndDapper\obj\Debug\netcoreapp2.1\ChicAndDapper.AssemblyInfoInputs.cache
+C:\Users\Athom\Documents\Visual Studio 2017\Projects\ChicAndDapper\ChicAndDapper\obj\Debug\netcoreapp2.1\ChicAndDapper.AssemblyInfo.cs
+C:\Users\Athom\Documents\Visual Studio 2017\Projects\ChicAndDapper\ChicAndDapper\obj\Debug\netcoreapp2.1\ChicAndDapper.dll
+C:\Users\Athom\Documents\Visual Studio 2017\Projects\ChicAndDapper\ChicAndDapper\obj\Debug\netcoreapp2.1\ChicAndDapper.pdb
