@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/ChicAndDapper/v15/Server/sqlite3/storage.ide-wal
+/.vs/ChicAndDapper/v15/Server/sqlite3/storage.ide-shm
+/.vs/ChicAndDapper/v15/Server/sqlite3/storage.ide
+/.vs/ChicAndDapper/v15/Server/sqlite3/db.lock
+/.vs/ChicAndDapper/v15/Server/sqlite3

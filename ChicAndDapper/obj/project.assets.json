@@ -688,37 +688,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Athom\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\austin.french\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Athom\\Documents\\Visual Studio 2017\\Projects\\ChicAndDapper\\ChicAndDapper\\ChicAndDapper.csproj",
+      "projectUniqueName": "C:\\Users\\austin.french\\source\\repos\\Chic\\ChicAndDapper\\ChicAndDapper.csproj",
       "projectName": "ChicAndDapper",
-      "projectPath": "C:\\Users\\Athom\\Documents\\Visual Studio 2017\\Projects\\ChicAndDapper\\ChicAndDapper\\ChicAndDapper.csproj",
-      "packagesPath": "C:\\Users\\Athom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Athom\\Documents\\Visual Studio 2017\\Projects\\ChicAndDapper\\ChicAndDapper\\obj\\",
+      "projectPath": "C:\\Users\\austin.french\\source\\repos\\Chic\\ChicAndDapper\\ChicAndDapper.csproj",
+      "packagesPath": "C:\\Users\\austin.french\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\austin.french\\source\\repos\\Chic\\ChicAndDapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Athom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\austin.french\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/ineight/_packaging/In8ProjectSuite/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -730,6 +729,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
@@ -739,10 +739,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
