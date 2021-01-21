@@ -6,6 +6,13 @@ namespace ChicAndDapper
 {
     public partial class Chic
     {
+        private ChicOptions chicOptions { get; set; }
+        public Chic(ChicOptions chicOptions)
+        {
+            this.chicOptions = chicOptions;           
+        }
+
+        
         public static string GetName<T>()
         {
             return typeof(T).Name;
